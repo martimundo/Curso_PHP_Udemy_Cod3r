@@ -127,6 +127,23 @@
                         <li><a href="exercicio.php?dir=Classes_Objetos&file=desafio_data">Desafio Classe Data</a></li>
                         <li><a href="exercicio.php?dir=Classes_Objetos&file=construtor_destrutor">Const_Destr</a></li>
                         <li><a href="exercicio.php?dir=Classes_Objetos&file=heranca">Herança</a></li>
+                        <li><a href="exercicio.php?dir=Classes_Objetos&file=visibilidade">Visibiliade</a></li>
+                        <li><a href="exercicio.php?dir=Classes_Objetos&file=static">Membros Estaticos</a></li>
+                        <li><a href="exercicio.php?dir=Classes_Objetos&file=interface">Interface</a></li>
+                        <li><a href="exercicio.php?dir=Classes_Objetos&file=abstrato">Abstratos</a></li>
+                        <li><a href="exercicio.php?dir=Classes_Objetos&file=desafio_erros">Desafio 7 Erros</a></li>
+                        <li><a href="exercicio.php?dir=Classes_Objetos&file=final">Modificador Final</a></li>
+                        <li><a href="exercicio.php?dir=Classes_Objetos&file=traits">Traits</a></li>
+                        <li><a href="exercicio.php?dir=Classes_Objetos&file=traits_conflitos">Traits Resol.Conflitos</a></li>
+                        <li><a href="exercicio.php?dir=Classes_Objetos&file=metodosmagicos">Metodos Mágicos</a></li>
+                        
+                    </ul>
+                </div>
+
+                <div class="modulo pink">
+                    <h3>Módulo 9 - Includes</h3>
+                    <ul>
+                        <li><a href="exercicio.php?dir=includes&file=include">Includes</a></li>                       
                         
                     </ul>
                 </div>
