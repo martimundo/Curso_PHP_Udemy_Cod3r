@@ -41,7 +41,7 @@
     </main>
 
     <footer class="footer">
-        Desenvolvedor WEB &copy;<?= date('Y'); ?>
+        Desenvolvimento WEB com PHP &copy;<?= date('Y'); ?>
     </footer>
 
 

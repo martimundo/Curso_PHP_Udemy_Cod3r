@@ -1,8 +1,8 @@
 <?php
 
-echo "Carregando: include_aquivo";
+echo "Carregando: include_arquivo<br>";
 
-$variavel = "Estou definida";
+$variavel = "Sou a variavel definida dentro do arquivo include";
 
 function somar($a, $b){
 
