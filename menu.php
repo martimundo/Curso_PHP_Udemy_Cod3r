@@ -159,9 +159,22 @@
     <div class="modulo vermelhor">
         <h3>Módulo 12 - Sessões e Cookies</h3>
         <ul>
-            <li><a href="https://www.php.net/manual/pt_BR/language.errors.php7.php" target="_blank">Links para consulta Erros</a></li>
-            <li><a href="https://www.php.net/manual/pt_BR/language.exceptions.php" target="_blank">Links para consulta Execeções</a></li>
+            <li><a href="https://www.php.net/manual/pt_BR/book.session.php" target="_blank">Links para consultar</a></li>
+            <li><a href="https://www.php.net/manual/pt_BR/session.examples.basic.php" target="_blank">Links para consultar</a></li>
+            <li><a href="https://www.php.net/manual/pt_BR/session.idpassing.php" target="_blank">Links para consultar</a></li>
+            <li><a href="https://www.php.net/manual/pt_BR/features.cookies.php" target="_blank">Links para consultar</a></li>
             <li><a href="exercicio.php?dir=Sessao&file=basico_sessao">Básico Sessões</a></li>
+            <li><a href="exercicio.php?dir=Sessao&file=gerenciando_sessao">Gerenciando Sessão</a></li>
+        </ul>        
+        
+    </div>
+    <div class="modulo vermelhor">
+        <h3>Módulo 13 - API</h3>
+        <ul>          
+            <li><a href="exercicio.php?dir=API&file=datas_001">Datas #001</a></li>            
+            <li><a href="exercicio.php?dir=API&file=datas_002">Datas #002</a></li>            
+            <li><a href="exercicio.php?dir=API&file=escrever_arquivo">Escrevendo em arquivos</a></li>            
+            <li><a href="exercicio.php?dir=API&file=ler_arquivo">Ler arquivos</a></li>            
         </ul>        
         
     </div>

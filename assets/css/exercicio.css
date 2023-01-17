@@ -1,15 +1,9 @@
 body.exercicio{
-    font-family: 'Roboto', sans-serif;
-    grid-template-rows: 120px 60px 1fr 60px;
-    grid-template-areas: 
-        "header" 
-        "navegacao"
-        "principal"
-        "footer"
+
 }
 .principal{
     font-family: 'Roboto', serif;
-    height: calc(100vh - 240px);
+   
 }
 .principal a{
     text-decoration: none;
@@ -19,30 +13,6 @@ body.exercicio{
     background-color: #4caf50;
 }
 
-.navegacao{
-    grid-area: navegacao;
-    display:flex;
-    justify-content: flex-end;
-    align-items: center;
-    background-color: #bad8e8;
-}
-.navegacao >a{
-    text-decoration: none;
-    color: #fff;
-    font-weight: 300;
-    font-size: 1.3rem;
-    background-color: #3d4f58 ;
-    padding: 5px 10px;
-    margin-right: 10px;
-    border-radius: 5px;
-}
-
-
-.navegacao >a.verde{background-color: #4caf50;}
-.navegacao >a.vermelho{background-color: #f44336}
-
-.navegacao >a.verde:hover{background-color: #f44336;}
-.navegacao >a.vermelho:hover{background-color: #4caf50;}
 
 
 .conteudo{

@@ -1,3 +1,5 @@
+<?php
+include_once 'sessao.php';?>
 <!DOCTYPE html>
 <html lang="pt-br">
 
@@ -26,10 +28,13 @@
 
     <nav class="navbar bg-dark">
         <form class="container-fluid justify-content-end">
+            <span class="usuario">Bem-vindo <?= $_SESSION['usuario'] ?></span>
             <a href=<?= "{$_GET['dir']}/{$_GET['file']}.php" ?> type="button" class="btn btn-primary">Sem Formatação</a>
             <a href="index.php" type="button" class="btn btn-warning">Voltar</a>
+            <a href="logout.php" type="button" class="btn btn-danger">Sair</a>
+
         </form>
-    </nav>    
+    </nav>
     <main class="principal">
         <div class="conteudo">
             <?php

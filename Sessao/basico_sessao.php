@@ -16,4 +16,5 @@ if(!$_SESSION['email']){
 
 <p>
     <a href="/sessao/basico_sessao_alterar.php">Alterar a Sessão</a>
+    <a href="/index.php">Inicio</a>
 </p>

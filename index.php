@@ -1,3 +1,7 @@
+<?php
+include_once 'sessao.php';
+;?>
+
 <!DOCTYPE html>
 <html lang="pt-br">
 
@@ -18,7 +22,10 @@
         <h1>PHP</h1>
         <H2>Lista de Exercícios</H2>
     </header>
-
+    <nav class="navbar bg-dark">
+        <span class="usuario">Bem-vindo <?= $_SESSION['usuario'] ?></span>
+        <a href="logout.php" type="button" class="btn btn-danger">Sair</a>
+    </nav>   
     <main class="principal">
         <div class="conteudo">
             <?php require_once('menu.php');?>
